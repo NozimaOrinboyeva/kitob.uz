@@ -15,6 +15,8 @@
     box-sizing: border-box;
 }
 
+
+
 html, body,.wrapper{
     width: 100%;
     height: 100%;
@@ -23,6 +25,9 @@ a{
     text-decoration: none;
     color: inherit;
 }
+
+
+
 button{
     background-color: transparent;
     border: none;
@@ -179,6 +184,8 @@ button{
 /* and  */
 
 
+/*  */
+
 /* bboks start  */
 .row-title{
     display: flex;
@@ -205,6 +212,12 @@ button{
     margin-top: 10px;
     margin-left: 23px;
 }
+
+/* .text-center{
+    color: #ffd700;
+    font-size: 20px;
+    margin-left: 20px;
+} */
 
 .link-with{
     font-family: Poppins;
